@@ -20,7 +20,7 @@ Soy un desarrollador fullstack apasionado por crear soluciones tecnológicas inn
 ---
 
 ## 🌟 Proyectos Destacados  
-### 🩺 [![FichaVet](https://github.com/waflex/Ficha-Vet)]  
+### 🩺 [FichaVet](https://github.com/waflex/Ficha-Vet)  
 Sistema de gestión veterinaria con historiales clínicos digitales y seguimiento de pacientes.  
 
 ### 📊 [EpiCl-Web](https://github.com/waflex/EpiCL-web)  

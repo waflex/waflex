@@ -5,7 +5,7 @@ Soy un desarrollador fullstack apasionado por crear soluciones tecnológicas inn
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=30F700&multiline=true&width=435&lines=Si+la+vida+fuese+a+base+de+c%C3%B3digos;nuestras+manos+ser%C3%ADan+el+compilador)](https://git.io/typing-svg)
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=waflexE&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waflex&size_weight=0.5&count_weight=0.5)
 ![Trofeos](https://github-profile-trophy.vercel.app/?username=waflex&theme=onedark&margin-w=15&no-frame=true)
 
 ---

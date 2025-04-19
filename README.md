@@ -24,7 +24,7 @@ Soy un desarrollador fullstack apasionado por crear soluciones tecnológicas inn
 Sistema de gestión veterinaria con historiales clínicos digitales y seguimiento de pacientes.  
 
 ### 📊 [EpiCl-Web](https://github.com/waflex/EpiCL-web)  
-Plataforma web para análisis epidemiológicos y visualización de datos en tiempo real.  
+Fanpage para la comunidad de Epic The Musical en chile, donde se presentan como funciona la comunidad y los distintos eventos que ocurren dentro del pais
 
 ---
 
